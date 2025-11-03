@@ -1,0 +1,5 @@
+1,Karies,Povrsinska lezija zuba
+2,Paradentoza,Upala desni
+3,Granulom,Upala u predelu vrha korena
+4,Aftozni stomatitis,Afte u usnoj supljini
+5,Bruksizam,Skrgutanje zubima

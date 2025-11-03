@@ -1,0 +1,5 @@
+1,Petar,Petrovic,Ortodoncija
+2,Ivana,Ivic,Oralna hirurgija
+6,Milica,Milinkovic,Protetika
+7,Nikola,Nikolic,Parodontologija
+8,Tamara,Tomic,Decija stomatologija

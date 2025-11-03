@@ -1,0 +1,10 @@
+1,Petar,Petrovic,pera,petar123,lekar
+2,Ivana,Ivic,ivana,ivana123,lekar
+6,Milica,Milinkovic,milica,milica123,lekar
+7,Nikola,Nikolic,nikola,nikola123,lekar
+8,Tamara,Tomic,tamara,tamara123,lekar
+3,Marko,Markovic,marko,marko123,pacijent
+4,Ana,Anic,ana,ana123,pacijent
+5,Jovan,Jovanovic,jovan,jovan123,pacijent
+9,Mila,Milic,mila,mila123,pacijent
+10,Stefan,Stojanovic,stefan,stefan123,pacijent
